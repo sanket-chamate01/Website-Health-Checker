@@ -2,6 +2,6 @@
 A tool to check whether a website is running or is down
 
 run in terminal as
-go run . --domain url
+go run . --domain url </b>
 example:
 go run . --domain google.com
